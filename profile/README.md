@@ -1,4 +1,8 @@
-## welcome to the XMapTools Project on GitHub
+## Welcome to the XMapTools Project on GitHub
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/xmaptools/XMapTools_Developers/graphs/commit-activity)
+[![Website xmaptools.ch](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://xmaptools.ch)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](#)
 
 XMapTools is an advanced analysis software for quantitative chemical analysis of solid Earth materials in 1D, 2D and 3D. It provides numerical tools and packages implemented in a guided and versatile environment allowing data to be explored and visualised in your own way. XMapTools incorporates for example a large variety of options for data processing including routines for classification, segmentation, calibration and visualisation via single and multi-channel maps or via binary, ternary and spider diagrams.
 

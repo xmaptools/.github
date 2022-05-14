@@ -8,11 +8,10 @@ XMapTools is an open-source software solution for the analysis of quantitative c
 
 It provides numerical tools and packages implemented in a guided and versatile environment allowing data to be explored and visualised in your own way, including routines for classification, segmentation, calibration and visualisation via single and multi-channel maps or via binary, ternary and spider diagrams. 
 
-XMapTools official website: https://xmaptools.ch
-
-Documentation (work in progress): https://resources.xmaptools.ch  
-
-PTtoolbox (by J. Laughton): https://github.com/JoshuaLaughton/PTtoolbox
+## Useful resources
+XMapTools official website: https://xmaptools.ch <br />
+Documentation (work in progress): https://resources.xmaptools.ch <br />  
+PTtoolbox (by J. Laughton): https://github.com/JoshuaLaughton/PTtoolbox <br />
 
 
 

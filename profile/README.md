@@ -3,7 +3,9 @@
 XMapTools is an advanced analysis software for quantitative chemical analysis of solid Earth materials in 1D, 2D and 3D. It provides numerical tools and packages implemented in a guided and versatile environment allowing data to be explored and visualised in your own way. XMapTools incorporates for example a large variety of options for data processing including routines for classification, segmentation, calibration and visualisation via single and multi-channel maps or via binary, ternary and spider diagrams.
 
 XMapTools official website: https://xmaptools.ch
+
 Documentation (work in progress): https://resources.xmaptools.ch  
+
 PTtoolbox (by J. Laughton): https://github.com/JoshuaLaughton/PTtoolbox
 
 

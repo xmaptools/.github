@@ -1,4 +1,4 @@
-## Welcome to the XMapTools Project on GitHub
+## Welcome to the XMapTools' Project on GitHub
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/xmaptools/XMapTools_Developers/graphs/commit-activity)
 [![Website xmaptools.ch](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://xmaptools.ch)

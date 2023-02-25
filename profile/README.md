@@ -3,6 +3,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/xmaptools/XMapTools_Developers/graphs/commit-activity)
 [![Website xmaptools.ch](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://xmaptools.ch)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](#)
+[![DOI](https://zenodo.org/badge/397986784.svg)](https://zenodo.org/badge/latestdoi/397986784)
 
 XMapTools is an open-source software solution for the analysis of quantitative chemical data in 2D and 3D.
 

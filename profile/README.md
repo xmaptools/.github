@@ -11,7 +11,7 @@ It provides numerical tools and packages implemented in a guided and versatile e
 
 ## Useful resources
 XMapTools official website: https://xmaptools.ch <br />
-Documentation: [https://resources.xmaptools.ch](https://xmaptools.github.io/Documentation/) <br />
+Documentation: https://xmaptools.github.io/Documentation/ <br />
 PTtoolbox (by J. Laughton): https://github.com/JoshuaLaughton/PTtoolbox <br />
 
 
